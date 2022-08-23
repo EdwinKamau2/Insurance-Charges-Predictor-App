@@ -1,4 +1,4 @@
 pycaret==1.0.0
 streamlit 
 catboost==0.1.1.2
-python==3.4.3
+python=3.10.6
